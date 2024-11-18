@@ -1,0 +1,137 @@
+{
+    "stories": [
+        {
+            "id": "home-page",
+            "image": "homepage.png"
+        },
+
+        {
+            "id": "0",
+            "image": "0-img.jpg",
+            "storyText": "“This is going to be sick bro!” your good friend Draymond says as you guys get ready. He’ll be at yours by 8:30 pm. You both were invited out to meet a group of friends by your mate William, who you call Will. But the catch is, he doesn’t even know exactly where you guys will be going. He says the group is going to a restaurant and then some arcade bar you’ve never heard of. You honestly do not feel like going out whatsoever. Your perfect idea of Saturday night chilling on the sofa with a large box of Domino's pepperoni pizza, watching Breaking Bad for the third time. But Will trusts this group, he says they are chill. And you trust Will. Plus this outing will be good for Draymond’s social life, and getting to know the UK. He and his family have just moved from Compton California, and it has not been easy. Especially because he was raised in such a dangerous neighbourhood and lived that gang-banging life for so long, even though he’s only a year older than yourself. (You’re 17 by the the way). As you’re going through your closet, you’re not sure what to wear. It’s fall, and you wanna pick a pretty warm outfit. You’re not looking to impress anyone in particular, but it is a group of new people and first impressions do matter. How do you dress?",
+            "btn1Text": "Dress Simply",
+            "btn2Text": "Dress To Impress!",
+            "btn1NextScene": "1A",
+            "btn2NextScene": "1B"
+        },
+        {
+            "id": "1A",
+            "image": "1A-img.jpg",
+            "storyText": "You put on some plain blue jeans, and a plain white sweatshirt and wear your old, white Converse trainers. Nothing too fancy. Draymond however is all dripped out in joggers, Jordans 1s and a sick hoodie. ",
+            "btnText": "Continue",
+            "contBtnNextScene": "2A"
+        },
+        {
+            "id": "1B",
+            "image": "1B-img.jpeg",
+            "storyText": "You put on your nicest-looking jacket, some nice jeans, and your nicest Jordans. Who said you can’t dress to impress? “Sick outfit dude!”. You enjoy the compliment from Draymond.",
+            "btnText": "Continue",
+            "contBtnNextScene": "2A"
+        },
+        {
+            "id": "2A",
+            "image": "2A-img.jpg",
+            "storyText": "You get a text on your phone from Will. “I’m outside” it reads. You guys head outside, get in the car and drive to Cabot Circus car park. You walk for a bit and meet the group outside of a restaurant. There were 3 other guys there with one girl, who did not look stoked to be there. All the guys tell you their names, but you know that you won’t remember an hour from now, because you have the memory of an 87-year-old at 17. But then you ask the girl her name. Now you really start to notice her. She’s a little short, blonde girl with a Bristolian accent. You find her, pretty… cute. Hi “April,” she says in a smallish voice, which you find a little even more cute. “Nice to meet you April” you say as you exchange an awkward handshake. ",
+            "btnText": "Continue",
+            "contBtnNextScene": "3A"
+        },
+        {
+            "id": "3A",
+            "image": "3A-img.jpg",
+            "storyText": "You guys get a bunch of food at the restaurant. It’s the L’Osteria restaurant in Bristol city centre, not far from the Apple store. Will, Draymond and the guys are talking, and later you find out that April is there because her parents wanted to be home alone for the night, so they forced her to go with her brother to this outing, who was one of the guys in the group. That’s pretty funny but you feel bad for poor April. Then everyone starts to look down at the menu. Do you fancy pizza or pasta today?",
+            "btn1Text": "Pizza",
+            "btn2Text": "Pasta",
+            "btn1NextScene": "4A",
+            "btn2NextScene": "4B"
+        },
+        {
+            "id": "4A",
+            "image": "4A-img.jpeg",
+            "storyText": "You get the nicest looking pizza and you dig in. It’s a massive 16 inch pizza and 4 slices in, you’re already full. It tastes really good but its’ so expensive though. You did not expect to be set back £20 tonight but here you are.",
+            "btnText": "Continue",
+            "contBtnNextScene": "5A"
+        },
+        {
+            "id": "4B",
+            "image": "4B-img.jpg",
+            "storyText": "You get the nicest-looking pasta. And you dig in. The bolognese at L’Osteria is pretty good. Not the best you’ve ever had (that’ll go to a restaurant in Italy while you are on holiday) but it’s decent. It’s so expensive though compared to Italy. You did not expect to be set back £18 tonight but here you are.",
+            "btnText": "Continue",
+            "contBtnNextScene": "5A"
+        },
+        {
+            "id": "5A",
+            "image": "5A-img.webp",
+            "storyText": "You all finally leave the restaurant and you’re headed for this mysterious “arcade bar”. You have no idea whatsoever where this place is or what it's even about. You guys just make your way through the city centre. You and April start to chat a bit, and she’s quite nice to talk to and listen to. Before you know it, you two are opening up to each other. However, you are honestly such a shy person and you stutter a little bit as you talk to this girl. But she’s quite shy too. But you guys have a great conversation. She goes on about how she loves her parents, but they can be a little annoying sometimes and she often has to hide things from them. “I ‘m turning 18 in a week and I can’t wait!” she says. You can tell she’s dying too. Then her parents will probably not question her as much. You can instantly relate. You have African parents. You tell her about your move from Africa recently and how you’ve struggled to make new friends, but are getting there slowly. You think you’re doing a pretty decent job of talking to this girl. However, it doesn’t take Draymond long to whisper in your ear when April isn’t looking and say: “You need to work on your game bro”. “Shut up.” you whisper back. Draymond is good at talking to people though. He started a conversation with all 3 guys in the group just like that. You can only wish for bro’s confidence and charisma. Your group keeps walking until you end up at an arcade bar. NQ64 Arcade Bar specifically, in Bristol. ",
+            "btnText": "Continue",
+            "contBtnNextScene": "6A"
+        },
+        {
+            "id": "6A",
+            "image": "6A-img.jpg",
+            "storyText": "Outside the arcade bar, there are bouncers. Will looks surprised as well. Then it hits you. This place is more than an arcade bar. It’s a club. You all know what means. 18-year-olds and above only are allowed in. And these bouncers **do not** look friendly. This immediately makes you super uneasy. Draymond is 18 **AND** looks intimidating. He can get in, no problem. April is a pretty girl who just has to smile and literally walk past the bouncers to get in. (Pretty girl privilege innit?🙄)\n\nYou wonder how **you’ll** get in. Do you remember what Draymond told you that worked for him back in California? He didn’t make eye contact, kept his face down and just walked in. Bro was getting into clubs at 15! (Crazy work). You feel like that may work for you, but then the anxious thoughts come into your head. What if they ask for your age? Do you lie? What if you get caught? What if you go to jail? What if the world ends? Your string of anxious thoughts is broken by Will. “I’m sorry man” he says in an apologetic tone. “I didn’t know there’s an age limit here. If I had known…” “It’s fine, I’ll try to get in,” you say, interrupting. Will then replies: “You sure mate? That’s really risky. Be careful”. “I’ll be fine,” you say, but you’re honestly not convinced at all. “We’ll be right behind you brother” Draymond says to you assuringly. You stand there thinking for a second, and while the rest of the group goes in (including April, with ease 🙄). “You guys alright?” one of the guys says, turning back. “Yeah we’ll be just a second” Will says. “You doing this or not mate?” he asks, actually waiting for you to make a decision. Now you feel like the weight of the world is on your shoulders. What do you do?",
+            "btn1Text": "Risk it",
+            "btn2Text": "Don't risk it",
+            "btn1NextScene": "7A",
+            "btn2NextScene": "7B"
+        },
+        {
+            "id": "7A",
+            "image": "7A-img.jpeg",
+            "storyText": "You get a nod of approval from Draymond and Will. You position yourself between them and have your head down the whole time, trying your absolute best not to look up. “Don’t make eye contact” you keep repeating to yourself in your head.\n\nYou follow closely behind them both and they get in. But just as you’re nearly past the entrance, you feel a strong hand grab your arm and stop you in your tracks. You hear a deep, raspy voice utter the words: “Age please”. It’s one of the bouncers.\n\nAt this point, your conscience is already plaguing you for even trying to get in. You are scared and trying your best not to shake. Will and Draymond are trying to keep their cool under the tense situation. Now, to get in you would have to outright lie. What do you do?",
+            "btn1Text": "Lie",
+            "btn2Text": "Don't lie",
+            "btn1NextScene": "8A",
+            "btn2NextScene": "8B"
+        },
+        {
+            "id": "7B",
+            "image": "7B-img.png",
+            "storyText": "You tell them both that you’re not risking it because you feel like the consequences aren’t worth it. “Come on man! You’ve always wanted to go clubbing.” Draymond says, trying to convince you. But you’ve made up your mind. “Nah bro I can’t do it” he says. Draymond is a little disappointed but he gets it. Will isn’t super happy either and he feels pretty bad because he invited you out for this in the first place. He then says: “I can drive you home if you like”. It’s a nice offer but, do you want to ruin the night for Will or just make it home a lot easier and avoid an hour bus journey by 10 at night?",
+            "btn1Text": "Take Will's Offer",
+            "btn2Text": "Tell Will not to bother",
+            "btn1NextScene": "8C",
+            "btn2NextScene": "8D"
+        },
+        {
+            "id": "8C",
+            "image": "8C-img.jpeg",
+            "storyText": "You and Draymond get into Will’s car and he drives you home. There’s a bit of an awkward silence on the way home. You’re actually pretty mad at Will for inviting you on this outing in the first place but you ultimately just let it go. At least he’s fixing it by dropping you back home. Will drives you home and drops off you and Draymond. And that’s that. You were rejected from the club. You’re back home.",
+            "btnText": "Continue",
+            "contBtnNextScene": "ending-page"
+        },
+        {
+            "id": "8D",
+            "image": "8D-img.jpeg",
+            "storyText": "“Naw it’s okay man we’ll be fine” you say. “You sure? I really don’t mind” Will replies. “Yeah, we’ll just get the bus innit? Go have fun in the club you then say. Will looks a bit sad for you but, you can tell that he appreciates your unselfishness.",
+            "btnText": "Continue",
+            "contBtnNextScene": "9B"
+        },
+        {
+            "id": "9B",
+            "image": "9B-img.jpeg",
+            "storyText": "“You and Draymond eventually make it leave from the nightclub. It's about half 10. Draymond suggests that you guys walk around and do some sightseeing in Bristol to make up for not getting in. You feel pretty defeated, and exhausted, physically and emotionally. You really don’t feel like it. You honestly just want to go home at this point. But Draymond hasn’t been around Bristol nightlife too many times, and he really wants to explore it. What do you do?",
+            "btn1Text": "Take the bus home",
+            "btn2Text": "Explore Bristol",
+            "btn1NextScene": "10C",
+            "btn2NextScene": "10D"
+        },
+
+        {
+            "id": "10C",
+            "image": "10C-img.jpg",
+            "storyText": "“Naw man, i’m going home”. You and Draymond take the next bus home. You feel defeated and feel like that was a waste of time.  As you’re sat in the bus however, you’re reflecting on how good of a friend Draymond really is. At least bro is coming home with you. Sad for both of you but it is what it is. You didn’t even get April’s number. That really could’ve been the start of something special. This is obviously not the best ending ever but hey, you got to have some good Italian food and chill with some friends. “Sorry that I chose to leave man” you say to Draymond. “Naw man, don’t worry about it. Ay, we didn’t finish that FIFA game… I bet I’ll still beat you” You smile sheepishly. “Yeah you wish. Let’s get home and see”. ",
+            "btnText": "Continue",
+            "contBtnNextScene": "ending-page"
+        },
+
+        {
+            "id": "ending-page",
+            "image": "the-end-img.jpg",
+            "text": "You’ve reached the end of the story! Were you happy with your ending? If you want to end the game, just... close the tab. (I mean, you’re in a browser 🤷‍♂️). Otherwise, you can choose to play from the beginning. Or you can make the opposite decision you made previously at the club to see what happens! Where do you want to go back to?",
+            "btn1Text": "The beginning",
+            "btn2Text": "",
+            "btn1NextS cene": "home-page",
+            "btn2NextScene": "6A"
+        }
+    ]
+}

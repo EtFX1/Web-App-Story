@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+* {
+    font-family: "Inter", sans-serif;
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-orange: #ff9500;
+    --dark-blue: #001d3d;
+    --darker-blue: #000814;
+}
+
+body,
+button {
+    background-color: var(--dark-blue);
+    letter-spacing: 0.25px;
+    color: white;
+    line-height: 1.35;
+}
+
+.cont {
+    background-image: url("./homepage.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 88vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.small-text {
+    font-size: 28px;
+}
+
+.heading {
+    font-size: 96px;
+}
+
+/* .wordsCont {
+    border: 2px solid;
+} */
+
+.start-btn-cont {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.start-btn-styles {
+    padding: 20px 32px;
+}
+
+.btn-styles {
+    background-color: var(--primary-orange);
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 16px;
+    border: 0;
+}
+
+.btn-styles:hover {
+    background: linear-gradient(
+        to right,
+        var(--primary-orange) 0%,
+        #ffd500 100%
+    );
+}
+
+.img-and-text-cont {
+    height: 90vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-and-btns-cont {
+    min-width: 320px;
+    max-height: 530px;
+    width: 50%;
+    margin: 80px;
+    align-self: center;
+}
+
+.mini-nav {
+    background-color: var(--darker-blue);
+    padding: 24px;
+    width: 100%;
+}
+
+.icon {
+    color: var(--primary-orange);
+    width: 40px;
+    height: 40px;
+}
+
+.icon:nth-of-type(1) {
+    margin-right: 10px;
+}
+
+.text {
+    margin-bottom: 20px;
+}
+
+.btns-cont {
+    /* border: 1px solid; */
+    width: 100%;
+}
+
+.opt-btn-styles {
+    padding: 12px 32px;
+    width: 100%;
+}
+
+.opt-btn-styles:nth-of-type(1) {
+    margin-bottom: 20px;
+}
+
+.img {
+    min-height: 100%;
+    height: auto;
+    max-width: 600px;
+    width: auto; /* Maintains aspect ratio */
+    display: block; /* Ensures it behaves as a block-level element if needed */
+}
+
+@media only screen and (max-width: 975px) {
+    .img-and-text-cont {
+        /* height: 90vh; */
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img {
+        /* height: auto; */
+        max-width: 100%;
+    }
+
+    .text-and-btns-cont {
+        margin: 50px 0;
+        width: 100%;
+        padding: 0 50px;
+    }
+}
