@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Options } from "./Components/Options";
-import "./styles/homepage.css";
+import "./styles/index.css";
 
 export const App = () => {
     const [currentStory, setCurrentStory] = useState(null);
@@ -34,12 +34,8 @@ export const App = () => {
     ) : (
         <>
             <div className="cont">
-                {/* <img
-                    src={currentStory.image} // Ensure the image file is in the public/images folder
-                    alt="Home Page"
-                /> */}
                 <div className="wordsCont">
-                    <p className="small-text">Ethan Obott Presents</p>
+                    <p className="small-text">Ethan Obott Presents...</p>
                     <h1 className="heading">A NIGHT TO REMEMBER</h1>
                     <p className="small-text">An interactive story</p>
                 </div>

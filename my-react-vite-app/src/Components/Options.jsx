@@ -4,10 +4,10 @@ import { EndingPage } from "./EndingPage";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMoon } from "@fortawesome/free-solid-svg-icons";
 import { faVolumeHigh } from "@fortawesome/free-solid-svg-icons";
-import "../styles/homepage.css";
+import "../styles/index.css";
 
-export const Options = () => {
-    const [currentId, setCurrentId] = useState("0"); // Initial state set to the story ID "0"
+export const Options = ({ initialId = "0" }) => {
+    const [currentId, setCurrentId] = useState(initialId); // Use initialId to set the starting story ID
     const [currentStory, setCurrentStory] = useState(null);
     const [showHome, setShowHome] = useState(false); // Manage whether to show Home
     const [showEnding, setShowEnding] = useState(false); // Manage EndingPage state
@@ -28,6 +28,22 @@ export const Options = () => {
         fetchStoryData();
     }, [currentId]); // Re-fetch data whenever currentId changes
 
+    // Function to handle audio playback
+    const handlePlayAudio = () => {
+        const audio = new Audio(
+            currentId === "0" ? "/audio/start.mp3" : "/audio/next.mp3"
+        );
+        audio.play();
+    };
+
+    // Function to handle button clicks
+    const handleButtonClick = (nextSceneId) => {
+        if (currentId === "22A") {
+            alert("Let's see if you're right");
+        }
+        setCurrentId(nextSceneId);
+    };
+
     // Wait for the data to load
     if (!currentStory) {
         return <p>Loading...</p>;
@@ -46,12 +62,20 @@ export const Options = () => {
         <>
             {/* navbar */}
             <nav className="mini-nav">
-                <FontAwesomeIcon
-                    onClick={() => setShowHome(true)}
-                    className="icon"
-                    icon={faMoon}
-                />
-                <FontAwesomeIcon className="icon" icon={faVolumeHigh} />
+                <div className="tooltip-container" data-tooltip="Home">
+                    <FontAwesomeIcon
+                        onClick={() => setShowHome(true)}
+                        className="icon"
+                        icon={faMoon}
+                    />
+                </div>
+                <div
+                    className="tooltip-container"
+                    data-tooltip="Hear me read!"
+                    onClick={handlePlayAudio} // Play audio when this icon is clicked
+                >
+                    <FontAwesomeIcon className="icon" icon={faVolumeHigh} />
+                </div>
             </nav>
 
             {/* text and buttons */}
@@ -75,7 +99,9 @@ export const Options = () => {
                                 ) {
                                     setShowEnding(true); // Show EndingPage
                                 } else {
-                                    setCurrentId(currentStory.contBtnNextScene); // Navigate to next scene
+                                    handleButtonClick(
+                                        currentStory.contBtnNextScene
+                                    ); // Navigate to next scene
                                 }
                             }}
                         >
@@ -86,7 +112,9 @@ export const Options = () => {
                             <button
                                 className="opt-btn-styles btn-styles"
                                 onClick={() =>
-                                    setCurrentId(currentStory.btn1NextScene)
+                                    handleButtonClick(
+                                        currentStory.btn1NextScene
+                                    )
                                 }
                             >
                                 {currentStory.btn1Text}
@@ -94,7 +122,9 @@ export const Options = () => {
                             <button
                                 className="opt-btn-styles btn-styles"
                                 onClick={() =>
-                                    setCurrentId(currentStory.btn2NextScene)
+                                    handleButtonClick(
+                                        currentStory.btn2NextScene
+                                    )
                                 }
                             >
                                 {currentStory.btn2Text}
