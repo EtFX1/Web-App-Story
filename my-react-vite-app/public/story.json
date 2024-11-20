@@ -23,7 +23,7 @@
         },
         {
             "id": "1B",
-            "image": "images/1B-img.jpeg",
+            "image": "images/1B-img.webp",
             "storyText": "You put on your nicest-looking jacket, some nice jeans, and your nicest Jordans. Who said you can’t dress to impress? “Sick outfit dude!”. You enjoy the compliment from Draymond.",
             "btnText": "Continue",
             "contBtnNextScene": "2A"
@@ -31,7 +31,7 @@
         {
             "id": "2A",
             "image": "images/2A-img.jpg",
-            "storyText": "You get a text on your phone from Will. “I’m outside” it reads. You guys head outside, get in the car and drive to Cabot Circus car park. You walk for a bit and meet the group outside of a restaurant. There were 3 other guys there with one girl, who did not look stoked to be there. All the guys tell you their names, but you know that you won’t remember an hour from now, because you have the memory of an 87-year-old at 17. But then you ask the girl her name. Now you really start to notice her. She’s a little short, blonde girl with a Bristolian accent. You find her, pretty… cute. Hi “April,” she says in a smallish voice, which you find a little even more cute. “Nice to meet you April” you say as you exchange an awkward handshake. ",
+            "storyText": "You get a text on your phone from Will. “I’m outside” it reads. You guys head outside, get in the car and drive to Cabot Circus car park. You walk for a bit and meet the group outside of a restaurant. There were 3 other guys there with one girl, who did not look stoked to be there. All the guys tell you their names, but you know that you won’t remember an hour from now, because you have the memory of an 87-year-old at 17. But then you ask the girl her name. Now you really start to notice her. She’s a little short, blonde girl with a Bristolian accent. You find her, pretty… cute. “April,” she says in a smallish voice, which you find a little even more cute. “Nice to meet you April” you say as you exchange an awkward handshake. ",
             "btnText": "Continue",
             "contBtnNextScene": "3A"
         },
@@ -61,13 +61,13 @@
         {
             "id": "5A",
             "image": "images/5A-img.webp",
-            "storyText": "You all finally leave the restaurant and you’re headed for this mysterious “arcade bar”. You have no idea whatsoever where this place is or what it's even about. You guys just make your way through the city centre. You and April start to chat a bit, and she’s quite nice to talk to and listen to. Before you know it, you two are opening up to each other. However, you are honestly such a shy person and you stutter a little bit as you talk to this girl. But she’s quite shy too. But you guys have a great conversation. She goes on about how she loves her parents, but they can be a little annoying sometimes and she often has to hide things from them. “I ‘m turning 18 in a week and I can’t wait!” she says. You can tell she’s dying too. Then her parents will probably not question her as much. You can instantly relate. You have African parents. You tell her about your move from Africa recently and how you’ve struggled to make new friends, but are getting there slowly. You think you’re doing a pretty decent job of talking to this girl. However, it doesn’t take Draymond long to whisper in your ear when April isn’t looking and say: “You need to work on your game bro”. “Shut up.” you whisper back. Draymond is good at talking to people though. He started a conversation with all 3 guys in the group just like that. You can only wish for bro’s confidence and charisma. Your group keeps walking until you end up at an arcade bar. NQ64 Arcade Bar specifically, in Bristol. ",
+            "storyText": "You all finally leave the restaurant and you’re headed for this mysterious “arcade bar”. You have no idea whatsoever where this place is or what it's even about. You guys just make your way through the city centre. You and April start to chat a bit, and she’s quite nice to talk to and listen to. Before you know it, you two are opening up to each other. However, you are honestly such a shy person and you stutter a little bit as you talk to this girl. But she’s quite shy too. But you guys have a great conversation. She goes on about how she loves her parents, but they can be a little annoying sometimes and she often has to hide things from them. “I ‘m turning 18 in a week and I can’t wait!” she says. You can tell she’s dying to. Then her parents will probably not question her as much. You can instantly relate. You have African parents. You tell her about your move from Africa recently and how you’ve struggled to make new friends, but are getting there slowly. You think you’re doing a pretty decent job of talking to this girl. However, it doesn’t take Draymond long to whisper in your ear when April isn’t looking and say: “You need to work on your game bro”. “Shut up.” you whisper back. Draymond is good at talking to people though. He started a conversation with all 3 guys in the group just like that. You can only wish for bro’s confidence and charisma. Your group keeps walking until you end up at an arcade bar. NQ64 Arcade Bar specifically, in Bristol. ",
             "btnText": "Continue",
             "contBtnNextScene": "6A"
         },
         {
             "id": "6A",
-            "image": "images/6A-img.jpg",
+            "image": "images/6A-img.webp",
             "storyText": "Outside the arcade bar, there are bouncers. Will looks surprised as well. Then it hits you. This place is more than an arcade bar. It’s a club. You all know what means. 18-year-olds and above only are allowed in. And these bouncers DO NOT look friendly. This immediately makes you super uneasy. Draymond is 18 AND looks intimidating. He can get in, no problem. April is a pretty girl who just has to smile and literally walk past the bouncers to get in. (Pretty girl privilege innit?🙄)You wonder how YOU'LL get in. Do you remember what Draymond told you that worked for him back in California? He didn’t make eye contact, kept his face down and just walked in. Bro was getting into clubs at 15! (Crazy work). You feel like that may work for you, but then the anxious thoughts come into your head. What if they ask for your age? Do you lie? What if you get caught? What if you go to jail? What if the world ends? Your string of anxious thoughts is broken by Will. “I’m sorry man” he says in an apologetic tone. “I didn’t know there’s an age limit here. If I had known…” “It’s fine, I’ll try to get in,” you say, interrupting. Will then replies: “You sure mate? That’s really risky. Be careful”. “I’ll be fine,” you say, but you’re honestly not convinced at all. “We’ll be right behind you brother” Draymond says to you assuringly. You stand there thinking for a second, and while the rest of the group goes in (including April, with ease 🙄). “You guys alright?” one of the guys says, turning back. “Yeah we’ll be just a second” Will says. “You doing this or not mate?” he asks, actually waiting for you to make a decision. Now you feel like the weight of the world is on your shoulders. What do you do?",
             "btn1Text": "Risk it",
             "btn2Text": "Don't risk it",
@@ -76,7 +76,7 @@
         },
         {
             "id": "7A",
-            "image": "images/7A-img.jpeg",
+            "image": "images/6A-img.webp",
             "storyText": "You get a nod of approval from Draymond and Will. You position yourself between them and have your head down the whole time, trying your absolute best not to look up. “Don’t make eye contact” you keep repeating to yourself in your head.You follow closely behind them both and they get in. But just as you’re nearly past the entrance, you feel a strong hand grab your arm and stop you in your tracks. You hear a deep, raspy voice utter the words: “Age please”. It’s one of the bouncers. At this point, your conscience is already plaguing you for even trying to get in. You are scared and trying your best not to shake. Will and Draymond are trying to keep their cool under the tense situation. Now, to get in you would have to outright lie. What do you do?",
             "btn1Text": "Lie",
             "btn2Text": "Don't lie",
@@ -140,7 +140,7 @@
         },
         {
             "id": "12A",
-            "image": "images/12A-img.png",
+            "image": "images/12A-img.avif",
             "storyText": "You order apple juice at the bar because you feel like you’ve already committed enough sins tonight and underage drinking does not need to be part of them. You chill for a bit. After a while, you see April sit down with some slightly older dude. He had quite broad shoulders, he definitely works out. And he was at least 6 feet tall. They both can’t see you because they are sat on the far end of the long bar table and they are chatting and seem to having a good time. While you’re sitting down there staring down at a glass of apple juice. With ice. Sad life innit? Then you see April go to the restroom. (Okay, why are you staring at them you creep 🤨). But then you notice the guy look around cautiously before reaching into his pocket. This makes you quite suspicious. Then you notice him bring out something tiny. It looks like a white pill. You can’t quite see it, but you can see him hover his fingers around her drink. It only takes someone with half a brain to put 2 and 2 together here. Your blood boils. “What an absolute jerk,” you think to yourself. You want to say something, but you’re a bit scared because you know, in a fight bro will beat the living Devil out of you. You’re a bit panicked, knowing that you have to act fast. Your small brain is thinking of 2 things. Which do you pick?",
             "btn1Text": "Go find April and tell her",
             "btn2Text": "Confront the guy directly",
@@ -164,7 +164,7 @@
         {
             "id": "15A",
             "image": "images/15A-img.png",
-            "storyText": "In the few seconds that follow, you just realise the consequences of your brash action. The whole club is staring at you, and people start whispering. April is looking at you like you’ve gone absolutely bonkers. Will and the other 3 guys in your group are doing the same. April looks like she wants the ground to open up and swallow her alive. She’s beyond embarrassed. You realise that you need to make a justification for your action. Immediately. The guy himself looks trying to look confused and innocent. You obviously don’t fall for his pretence. “I think she can drink whatever she wants mate,” he says, slowly making his way toward you. Then he turns to April and says “You can drink it April”. “Don’t!” you shout again, even in your fearful state. “He spiked it”. The guy continues to act shocked and then the expression on his face morphs into a much angrier one. “Well, that’s a pretty big accusation to make mate”. “Liam what’s going on?” April says looking alarmed and confused. So this vermin’s name is Liam. Poor April. She doesn’t know who, or what to believe. Liam turns to her again, but this time, with a much darker expression on his face and says “Drink it”. At this point, you’ve had enough. You rush toward April and knock the drink out of her hand. Most of it spills out onto the floor. You already know what’s coming. You already know it’s over for you. He charges towards your direction. ",
+            "storyText": "In the few seconds that follow, you just realise the consequences of your brash action. The whole club is staring at you, and people start whispering. April is looking at you like you’ve gone absolutely bonkers. Will and the other 3 guys in your group are doing the same. April looks like she wants the ground to open up and swallow her alive. She’s beyond embarrassed. You realise that you need to make a justification for your action. Immediately. The guy is trying to look confused and innocent. You obviously don’t fall for his pretence. “I think she can drink whatever she wants mate,” he says, slowly making his way toward you. Then he turns to April and says “You can drink it April”. “Don’t!” you shout again, even in your fearful state. “He spiked it”. The guy continues to act shocked and then the expression on his face morphs into a much angrier one. “Well, that’s a pretty big accusation to make mate”. “Liam what’s going on?” April says looking alarmed and confused. So this vermin’s name is Liam. Poor April. She doesn’t know who, or what to believe. Liam turns to her again, but this time, with a much darker expression on his face and says “Drink it”. At this point, you’ve had enough. You rush toward April and knock the drink out of her hand. Most of it spills out onto the floor. You already know what’s coming. You already know it’s over for you. He charges towards your direction. ",
             "btnText": "Continue",
             "contBtnNextScene": "16A"
         },
@@ -200,13 +200,13 @@
         {
             "id": "19A",
             "image": "images/19A-img.webp",
-            "storyText": "Inside the ambulance, all the paramedics are around you for a while, poking needles into you and dressing your wounds so you’re stabilised. You kept asking them about Draymond, but they weren’t sure as he was in the other ambulance. This creates an unexplainable feeling of anxiety in you. All you can do is wait. Fortunately, you’ve got April there with you. You guys talk for a bit in the ambulance, and you just break down and start to tell her everything. How old you are, how you felt coming about out in the first place, about how scared you were confronting the guy who spiked the drink. As you guys talk, you fall for her more and more. Then, you eventually gather the courage to ask her a question that’s been nagging at you for a while. “Why did you choose to ride with me?” you say. She gets all shy again but then gives you an answer. “I don’t know. I… just wanted to. I mean it’s not every day that a guy you meet saves your life”. You guys are looking into each other eyes again, but this time your faces are closer. At that very moment, the ambulance pulls up to the hospital.",
+            "storyText": "Inside the ambulance, all the paramedics are around you for a while, poking needles into you and dressing your wounds so you’re stabilised. You kept asking them about Draymond, but they weren’t sure as he was in the other ambulance. This creates an unexplainable feeling of anxiety in you. All you can do is wait. Fortunately, you’ve got April there with you. You just and start to tell about how you saw Liam spiking her drink, and what was going through your head, and how you decided to confront him even though it was a bit scary. As you guys talk,you fall for her more and more. Then, you eventually gather the courage to ask her a question that’s been nagging at you for a while. “Why did you choose to ride with me?” you say. She gets all shy again but then gives you an answer. “I don’t know. I… just wanted to. I mean it’s not every day that a guy you meet saves your life”. You guys are looking into each other eyes again, but this time your faces are closer. At that very moment, the ambulance pulls up to the hospital.",
             "btnText": "Continue",
             "contBtnNextScene": "20A"
         },
         {
             "id": "20A",
-            "image": "images/20A-img.avif",
+            "image": "images/20A-img.jpg",
             "storyText": "The paramedics get your bed outside of the ambulance, and they start moving you inside the hospital. Draymond is just a little further ahead of you, as his ambulance had arrived at the hospital a bit sooner. You are met by your parents, April’s parents, and the rest of the group. Will had told them all the story. You are relieved to see your parents though you know that you’ll be in big trouble. As you’re being taken out of the ambulance into the hospital bed, you are in physical pain but you have an immense feeling of satisfaction because you were brave enough to stand up for the right thing. It’s an amazing feeling. And let’s be honest, you getting in a fight at 17 in an 18+ club is a story for your great-grandkids to hear.  And with the way things were going with you and April, it might be the start of something exciting in your life. But you’re still a liar, and that feeling of guilt won’t stop nagging your conscience. So it’s not all great right now. And of course, you are still in incredible anxiety over what happened to Draymond, but all you can do is wish for the best. And of course wish for that scumbag Liam to be put in jail, Where predators like him belong. ",
             "btnText": "Continue",
             "contBtnNextScene": "21A"
@@ -266,14 +266,14 @@
         },
         {
             "id": "8D",
-            "image": "images/8D-img.jpeg",
+            "image": "images/7B-img.png",
             "storyText": "“Naw it’s okay man we’ll be fine” you say. “You sure? I really don’t mind” Will replies. “Yeah, we’ll just get the bus innit? Go have fun in the club you then say. Will looks a bit sad for you but, you can tell that he appreciates your unselfishness.",
             "btnText": "Continue",
             "contBtnNextScene": "9B"
         },
         {
             "id": "9B",
-            "image": "images/9B-img.jpeg",
+            "image": "images/9B-img.png",
             "storyText": "“You and Draymond eventually make it leave from the nightclub. It's about half 10. Draymond suggests that you guys walk around and do some sightseeing in Bristol to make up for not getting in. You feel pretty defeated, and exhausted, physically and emotionally. You really don’t feel like it. You honestly just want to go home at this point. But Draymond hasn’t been around Bristol nightlife too many times, and he really wants to explore it. What do you do?",
             "btn1Text": "Take the bus home",
             "btn2Text": "Explore Bristol",
@@ -290,11 +290,100 @@
         },
 
         {
+            "id": "10D",
+            "image": "images/10D-img.jpg",
+            "storyText": "You guys are walking through the bustling and vibrant streets of Bristol, still filled with a thrilling energy even though it’s past 10pm at night. You’re taking in the smell of the delicious food in the different restaurants, and it’s such a pleasing aroma. You can even hear the feet of some late night marathon runners, for a charity. You’re just taking in the Bristol (Friday) night life. But as the saying goes. Nothing good lasts forever… ",
+            "btnText": "Continue",
+            "contBtnNextScene": "12B"
+        },
+        {
+            "id": "12B",
+            "image": "images/12B-img.webp",
+            "storyText": "You guys get a slightly less busy road, but about halfway down the road, there’s a light coming out from a building set with chairs and tables outside. You guys continue walking. Sat round the table is a group of middle-aged men, probably in their 40s. They are drinking and smoking, and don’t look like very nice or responsible people. When you make it to the end of the street, you guys pass by their table since. They give you and Draymond an almost derogatory stare. You are unsettled and quickly shuffle past, while Draymond is completely unfazed and stares at the guy, walking past him. One of the guys goes “Look at these 2 donnies” and they all burst out laughing. Draymond gets mad. So mad. He’s about to give them a reply, but you anticipate that it won’t end well, so you just shush him. Last thing you want to do is get into a fight with some drunk men in Bristol late at night. Right?",
+            "btnText": "Continue",
+            "contBtnNextScene": "13C"
+        },
+
+        {
+            "id": "13C",
+            "image": "images/13C-img.jpg",
+            "storyText": "We keep walking. The guys just laugh. “How could you let them laugh at us like that man?” Draymond asks? “Chill out mate” you tell him. “They aren’t worth it”. Then just before you guys turn into the next side street you hear from behind you in a loud, mocking voice, saying “C’mon sweetie, give me a smile”. We both discreetly turn our heads, knowing where that statement must’ve come from. “Hey sexy, I’m a good guy, why don’t you want to talk to me?” another one says. “Aw baby, you running away? You couldn't handle this anyway.” Another one of the guys even starts meowing. And they even go as far as to make comments on… parts of her body. At this point you and Draymond are cringing out of your minds. Such disgusting and shameless pieces of trash. Catcalling the poor girl. The target of these piercing words was a shy looking blonde girl, her scared face illuminated by the bright pub lights. She obviously looked very uncomfortable. You could tell that she wanted to defend herself and call out these absolutely disrespectful turds. But she couldn’t. The anger was there. The disgust was there. The angry words she wanted to reply were up there in her head as well. But, fear held her back. ",
+            "btnText": "Continue",
+            "contBtnNextScene": "14B"
+        },
+        {
+            "id": "14B",
+            "image": "images/14B-img.jpg",
+            "storyText": "“Yo would you just shut the hell up man!” you hear directly from beside you. Fear and dread wash over you as you realise who this powerful voice came from. “She clearly doesn’t like it!” I immediately give a slightly louder whisper to Draymond saying: “you don’t want this man, let’s go”. But Draymond just ignores me at this point and walks towards the pub. I can’t tell whether he’s going towards the girl or the pub table. But anyway, one of the guys says “mind your own business mate!”. Draymond gives him a cold hard stare and says “I would if you weren’t being a complete bellend”. At this point completely intoxicated fellow rises up from his chair. And the others are about to do the same. He looks pretty unfazed once again. Why? But remember Draymond is from the hood. Compton California. One of the most dangerous cities in the United States of America. He may not be armed, but you know what they say. “You can take a guy out the streets, you can’t take the streets out a guy”. At this point you know what’s coming and before you know it, the guy takes a drunken swing at Draymond and misses. Draymond just loses it and nails the guy in the face. Then it’s just all out chaos. At that moment you develop some of admiration and respect for this dude, but overall you’re just horrified. And you’re thinking in your mind: “What an idiot”. The blonde girl is also horrified, but she’s a smart one and immediately calls the police. They are all throwing punches and elbows and more punches, but inevitably, Draymond starts to get overpowered. Because you know, it’s 1 teenager, versus 5 drunk men (Let that sink in). But unbelievably, Draymond from amidst all the fighting yells out to me: “Don’t join in man! You’ll get hurt”. You’re just stood there, wanting to help your friend, but not wanting to fight 5 drunk men. It’s either you go look for help, or you be the help. What do you do?",
+            "btn1Text": "Listen to Draymond and go look for help",
+            "btn2Text": "Get In There!",
+            "btn1NextScene": "15B",
+            "btn2NextScene": "15C"
+        },
+        {
+            "id": "15B",
+            "image": "images/15B-img.jpg",
+            "storyText": "You slowly back away, feeling pretty guilty. You feel like you’ve made the wrong choice, but it’s technically the safest one. You take a left and end up on a busier street. And you literally just scream “Help my friend is getting beat up! The police are on the way.” Many have a shocked look on their face, and people start whispering, but no one steps up to help initially. Until a few guys from another bar say: “Where’s your friend?”. You take them to the location, and Draymond is lying on the ground, motionless. One of the guys that you came with confronts one of the drunk guys (he’s only ground, barely moving by the way) and he says “Well it's the young man's fault innit?”. (Technically it was, but they were being perverted jerks, they deserved it). The guy that you called was about to charge toward the drunken idiot, but then sirens start ringing in the background, and the fight ends before it even starts. But also, behind the police car is an ambulance (homegirl was smart enough to tell them to send paramedics). Long story short, a few arrests are made. The police asks your parents names and Draymond’s, and at this point you have absolutely no choice but to give it to them. The police block off the area, and you’re just trying to understand the absolute craziness of the night.",
+            "btnText": "Continue",
+            "contBtnNextScene": "16B"
+        },
+        {
+            "id": "16B",
+            "image": "images/16B-img.jpg",
+            "storyText": "The paramedics lift come around and put Draymond onto a stretcher and carry him into the ambulance. You hop in the ambulance to ride with Draymond, but you can barely catch a glimpse of him. He’s surrounded by paramedics. He’s bleeding heavily from his head, has 2 black eyes and his face is all swollen. You just keep asking yourself, “Was it worth it? Was it worth it”? Then the ambulance driver starts to drive. You feel a massive amount of guilt and anxiety. You now fully regret not helping your friend out. But you can’t change the past. The ambulance gets to the hospital, and your parents as well as Draymond’s are waiting for you there. You run to your parents, and Draymond’s parents run to him as he’s being taken from the stretcher to the mobile hospital bed. You all go inside, wishing for the best. ",
+            "btnText": "Continue",
+            "contBtnNextScene": "17B"
+        },
+        {
+            "id": "17B",
+            "image": "images/17B-img.jpg",
+            "storyText": "Everyone is in the hospital room, just staring over Draymond’s motionless body. You’ve told your parents and his, everything that happened. Your parents are happy at least that you didn’t lie. Draymond’s parents parents, however, are not so happy that Draymond didn’t leave his behind “hood-like ways” (their words not yours) in America. Then the doctor comes in. “Is he going to be okay?” You ask anxiously.",
+            "btnText": "Continue",
+            "contBtnNextScene": "18B"
+        },
+        {
+            "id": "18B",
+            "image": "images/17B-img.jpg",
+            "storyText": "The doctor explains that he’s in a coma from a serious head injury. “Is he gonna wake up?” you ask, horrified. The doctors aren’t sure. This shatters you completely. You just hug your mom with tears in your eyes. And you feel awful for Draymond’s parents. Imagine what they must feel. People’s actions really can have disastrous consequences, but you can’t always control them can you? All you guys can do is hope for the best. Everyone wonders if everything is going to be okay. It’s such a messy situation. Everyone has their head down in sadness. Again, you can only hope for the best.",
+            "btnText": "Continue",
+            "contBtnNextScene": "19B"
+        },
+
+        {
+            "id": "15C",
+            "image": "images/15C-img.webp",
+            "storyText": "Even though you’re a timid person, the anger of your best friend being beaten up gradually strips away the fear inside you. And before you can realise it, you just get in there. You try to help as much as you can. The more you engage, the slightly more confident you get. You are in the midst of hands swinging, bloody noses and black eyes. And these guys are so drunk they are running in circles. You get a chance to look at Draymond. He is properly messed up. He had a bloody nose, a black eye, and bruises all over his face. But bro got that street in him. However, you guys are gradually overpowered. And before you know it, you start to hear sirens. You and Draymond look at each other. You two are about to make a run for it and then you feel something hit you in the back of your head, and it all goes black.",
+            "btnText": "Continue",
+            "contBtnNextScene": "16C"
+        },
+        {
+            "id": "16C",
+            "image": "images/16C-img.jpg",
+            "storyText": "You wake up to look at the fluorescent lights that immediately make you squint in discomfort. Then you hear a familiar voice with an excited tone. “He’s awake!” It’s your mom who’s making your way over to you with your mom and sister. She throws her arms around you. They are relieved that you woke up. Of course, you’re happy to see your family. (even though you’ll probably be in big trouble with them later). But you can’t help but blurt out:  What’s going on, a-and where’s Draymond?” ",
+            "btnText": "Continue",
+            "contBtnNextScene": "17C"
+        },
+        {
+            "id": "17C",
+            "image": "images/17C-img.jpg",
+            "storyText": "The doctor explains that he’s in a coma from a serious head injury. Then he begins to explain what happened after you passed out. In a nutshell, you both were rushed to the hospital by an ambulance. The doctors say that you have less severe injuries than Draymond and will be dismissed about 3 days from now. But you are so not concerned about yourself right now. “Is he gonna wake up?” you ask, fear and dread washing all over you. The doctors aren’t sure. This news makes you devastated, and you literally just pray that you didn’t just lose your best friend like this. They also explain that the police did an investigation and were able to watch most of what happened by means of street cameras. You guys both have to appear in court because you know, a fight broke out in the middle of the street at night. However, you’re hopeful that the judge will rule in you guys’ favour and those drunk scumbags will get the punishment that they deserve. Your parents are obviously not that happy about the court situation but for now, they are happy that you’re just alive. (They’ll sooooo deal with you later though). The terrible news of Draymond leaves a dead silence in the room. Everyone is absolutely overwhelmed with emotion, wondering if everything is going to be okay. It’s such a sad situation. All you can do is cry into your mom’s arms. You hope this isn’t the end.",
+            "btnText": "Continue",
+            "contBtnNextScene": "19B"
+        },
+        {
+            "id": "19B",
+            "image": "images/19B-img.jpg",
+            "storyText": "“I told you I was gonna win this round!” he says with a smirk. “I’m angry now.” say back sharply. You are so not winning the next game bro”. The hospital had allowed you to bring in your PS5 so that you and Draymond can play FIFA. You guys have been at it for hours ever since Draymond woke up. You are still thanking God that he made it out alive. It’s not all amazing though, you guys have got legal issues to deal with, as you were involved in a huge fight in public. You’ve got a court date and everything. But you’re hopeful that the judge will rule in your favour. And those scumbags will hopefully get the punishment they deserve. You guys then start the next game. Determined not to be subjected to another round of Draymond’s scornful remarks, and you are playing with your life. Super focused, calculating every movement you make with the ball on the screen. Then you hear the doctor call out your name. And you’re a little pissed off because he distracted your focus, and you were sure that you were winning. The doctor calls you aside and asks if you of a blond girl named Maya whose at the reception, asking to see Draymond. You know exactly who she is. “What’s going on bro?” Draymond asks. “Someone’s here to see you” you say with a smile, knowing that this could be a great start to his stay in the UK.",
+            "btnText": "Continue",
+            "contBtnNextScene": "ending-page"
+        },
+
+        {
             "id": "ending-page",
             "image": "images/the-end-img.jpg",
             "text": "You’ve reached the end of the story! Were you happy with your ending? If you want to end the game, just... close the tab. (I mean, you’re in a browser 🤷‍♂️). Otherwise, you can choose to play from the beginning. Or you can make the opposite decision you made previously at the club to see what happens! Where do you want to go back to?",
             "btn1Text": "The beginning",
-            "btn2Text": "",
+            "btn2Text": "Outside the club",
             "btn1NextScene": "home-page",
             "btn2NextScene": "6A"
         }
