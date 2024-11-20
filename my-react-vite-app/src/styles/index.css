@@ -167,7 +167,7 @@ button {
     display: block; /* Ensures it behaves as a block-level element if needed */
 }
 
-.the-end-text,
+.ending-par,
 .ending-img {
     margin-bottom: 20px;
 }

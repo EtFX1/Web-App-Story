@@ -3,7 +3,6 @@ import { App } from "../App";
 import { EndingPage } from "./EndingPage";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMoon } from "@fortawesome/free-solid-svg-icons";
-import { faVolumeHigh } from "@fortawesome/free-solid-svg-icons";
 import "../styles/index.css";
 
 export const Options = ({ initialId = "0" }) => {
@@ -27,14 +26,6 @@ export const Options = ({ initialId = "0" }) => {
 
         fetchStoryData();
     }, [currentId]); // Re-fetch data whenever currentId changes
-
-    // Function to handle audio playback
-    const handlePlayAudio = () => {
-        const audio = new Audio(
-            currentId === "0" ? "/audio/start.mp3" : "/audio/next.mp3"
-        );
-        audio.play();
-    };
 
     // Function to handle button clicks
     const handleButtonClick = (nextSceneId) => {
@@ -68,13 +59,6 @@ export const Options = ({ initialId = "0" }) => {
                         className="icon"
                         icon={faMoon}
                     />
-                </div>
-                <div
-                    className="tooltip-container"
-                    data-tooltip="Hear me read!"
-                    onClick={handlePlayAudio} // Play audio when this icon is clicked
-                >
-                    <FontAwesomeIcon className="icon" icon={faVolumeHigh} />
                 </div>
             </nav>
 

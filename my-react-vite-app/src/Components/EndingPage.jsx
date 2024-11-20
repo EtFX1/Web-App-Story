@@ -23,7 +23,7 @@ export const EndingPage = () => {
                 src="../images/the-end-img.jpg"
                 alt="End page"
             />
-            <p>
+            <p className="ending-par">
                 You’ve reached the end of the story! Were you happy with your
                 ending? If you want to end the game, just... close the tab. (I
                 mean, you’re in a browser 🤷‍♂️). Otherwise, you can choose to play
@@ -31,7 +31,6 @@ export const EndingPage = () => {
                 made previously at the club to see what happens! Where do you
                 want to go back to?
             </p>
-            <h1 className="the-end-text">The end!</h1>
             <button
                 className="opt-btn-styles btn-styles"
                 onClick={() => setShowHome(true)} // Set flag to true to show App
